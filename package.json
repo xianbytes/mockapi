@@ -1,0 +1,28 @@
+{
+  "name": "mockapi",
+  "version": "1.0.0",
+  "description": "Front and back separation, mock Back-End server api.",
+  "main": "mockapi.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xianbytes/mockapi.git"
+  },
+  "keywords": [
+    "Mock",
+    "restful",
+    "data"
+  ],
+  "author": "broncho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xianbytes/mockapi/issues"
+  },
+  "homepage": "https://github.com/xianbytes/mockapi#readme",
+  "dependencies": {
+    "flatiron": "^0.4.3",
+    "union": "^0.4.6"
+  }
+}
